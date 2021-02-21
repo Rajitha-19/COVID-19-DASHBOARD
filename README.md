@@ -12,6 +12,11 @@
  
  * <i> To make a COVID-19 dashboard using google datastudio.</i>
 
+# DATA RESOURCES
+ *  https://www.kaggle.com/sudalairajkumar/covid19-in-india 
+ *  https://github.com/owid/covid-19-data/tree/master/public/data
+
+
 # LINK TO OUR DASHBOARD
  
  * https://datastudio.google.com/u/0/reporting/a16383ae-448b-4952-8d91-f34517352195/page/P7NzB
