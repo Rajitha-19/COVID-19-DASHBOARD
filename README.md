@@ -1,7 +1,7 @@
 # COVID-19-DASHBOARD
  
  
-# TEAM MEMBERS
+
 
 #  Team Members
  **1. Pokuri.Monica Rani - 19PA1A05E1**\
