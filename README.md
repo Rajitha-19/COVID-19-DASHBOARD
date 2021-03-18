@@ -20,6 +20,12 @@
 # LINK TO OUR DASHBOARD
  
  * https://datastudio.google.com/u/0/reporting/a16383ae-448b-4952-8d91-f34517352195/page/P7NzB
+# Images
+
+* ![dashboard](https://raw.githubusercontent.com/Rajitha-19/COVID-19-DASHBOARD/main/page1.png)
+* ![dashboard](https://raw.githubusercontent.com/Rajitha-19/COVID-19-DASHBOARD/main/page2.png)
+* ![dashboard](https://raw.githubusercontent.com/Rajitha-19/COVID-19-DASHBOARD/main/page3.png)
+* ![dashboard](https://raw.githubusercontent.com/Rajitha-19/COVID-19-DASHBOARD/main/page4.png)
 
 # DEMO OF OUR DASHBOARD
 
